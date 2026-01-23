@@ -14,3 +14,9 @@ Her vil det komme en wiki med alle dokumenter, i tillegg til lenker til frontend
 🤝 [Lenke til Samarbeidsavtale (mellom gruppemedlemmer)](https://studntnu-my.sharepoint.com/:w:/r/personal/dennij_ntnu_no/Documents/Mal%20arbeidskontrakt.docx?d=w9bdab6f2459047f790b7ccd39749309a&csf=1&web=1&e=eh6m5B)
 
 🤝 [Lenke til Standardavtale (mellom gruppemedlemmer, oppdragsgiver, veileder osv)](https://studntnu-my.sharepoint.com/:w:/r/personal/hermalun_ntnu_no/Documents/Standardavtale.docx?d=w9668dd38e22e4bc9a6e5084c5581a4af&csf=1&web=1&e=w3FHXX)
+
+## Frontend og Backend
+
+🧑‍🎨 [Lenke til frontend repo](https://github.com/Bachelorgruppe-11-Sjakkdigitalisering/frontend)
+
+👨‍💻 [Lenke til backend repo](github.com/Bachelorgruppe-11-Sjakkdigitalisering/backend)
