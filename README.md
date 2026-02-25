@@ -19,4 +19,4 @@ Her vil det komme en wiki med alle dokumenter, i tillegg til lenker til frontend
 
 🧑‍🎨 [Lenke til frontend repo](https://github.com/Bachelorgruppe-11-Sjakkdigitalisering/frontend)
 
-👨‍💻 [Lenke til backend repo](github.com/Bachelorgruppe-11-Sjakkdigitalisering/backend)
+👨‍💻 [Lenke til backend repo](https://github.com/Bachelorgruppe-11-Sjakkdigitalisering/backend)
