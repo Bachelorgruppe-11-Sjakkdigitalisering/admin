@@ -8,6 +8,10 @@ Her vil det komme en wiki med alle dokumenter, i tillegg til lenker til frontend
 ## Timeliste
 📋 [Lenke til Excel-dokument for timeliste](https://studntnu-my.sharepoint.com/:x:/r/personal/hermalun_ntnu_no/Documents/10%20Mal%20timelister%203%20personer%20med%20statusrapporter%20bacheloroppgaver.xlsx?d=w71136a9457b54bbbac7c7c14558ac530&csf=1&web=1&e=Jz9Tc7)
 
+## Sprint Reviews + Sprint Retrospectives
+📄 [Lenke til Sprint Review mal](https://studntnu-my.sharepoint.com/:w:/r/personal/hermalun_ntnu_no/Documents/Sprint%20Review.docx?d=wde4c8cc511a3407c81c43d13a2fa01d4&csf=1&web=1&e=EaNO2Z)
+📄 [Lenke til Sprint Retrospective](https://studntnu-my.sharepoint.com/:w:/r/personal/hermalun_ntnu_no/Documents/Sprint%20Retrospective.docx?d=w959f1d596dee4778a356e4f0ce1bea7c&csf=1&web=1&e=bbS0kD)
+
 ## Forprosjektplan + avtaler
 📝 [Lenke til Forprosjektplan](https://studntnu-my.sharepoint.com/:w:/r/personal/hermalun_ntnu_no/Documents/Forprosjektsplan.docx?d=w2d3c32a9f4954c1d86cdc5c9065c15f7&csf=1&web=1&e=FxpRd1)
 
