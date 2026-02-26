@@ -10,6 +10,7 @@ Her vil det komme en wiki med alle dokumenter, i tillegg til lenker til frontend
 
 ## Sprint Reviews + Sprint Retrospectives
 📄 [Lenke til Sprint Review mal](https://studntnu-my.sharepoint.com/:w:/r/personal/hermalun_ntnu_no/Documents/Sprint%20Review.docx?d=wde4c8cc511a3407c81c43d13a2fa01d4&csf=1&web=1&e=EaNO2Z)
+
 📄 [Lenke til Sprint Retrospective](https://studntnu-my.sharepoint.com/:w:/r/personal/hermalun_ntnu_no/Documents/Sprint%20Retrospective.docx?d=w959f1d596dee4778a356e4f0ce1bea7c&csf=1&web=1&e=bbS0kD)
 
 ## Forprosjektplan + avtaler
