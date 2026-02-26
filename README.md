@@ -11,7 +11,12 @@ Her vil det komme en wiki med alle dokumenter, i tillegg til lenker til frontend
 ## Sprint Reviews + Sprint Retrospectives
 📄 [Lenke til Sprint Review mal](https://studntnu-my.sharepoint.com/:w:/r/personal/hermalun_ntnu_no/Documents/Sprint%20Review.docx?d=wde4c8cc511a3407c81c43d13a2fa01d4&csf=1&web=1&e=EaNO2Z)
 
-📄 [Lenke til Sprint Retrospective](https://studntnu-my.sharepoint.com/:w:/r/personal/hermalun_ntnu_no/Documents/Sprint%20Retrospective.docx?d=w959f1d596dee4778a356e4f0ce1bea7c&csf=1&web=1&e=bbS0kD)
+📄 [Lenke til Sprint Retrospective mal](https://studntnu-my.sharepoint.com/:w:/r/personal/hermalun_ntnu_no/Documents/Sprint%20Retrospective.docx?d=w959f1d596dee4778a356e4f0ce1bea7c&csf=1&web=1&e=bbS0kD)
+
+### Ferdige reviews og retrospectives
+1. [Sprint Review 1.pdf](https://github.com/user-attachments/files/25570378/Sprint.Review.1.pdf) & [Sprint Retrospektiv 1.pdf](https://github.com/user-attachments/files/25570376/Sprint.Retrospektiv.1.pdf)
+2. [Sprint Review sprint 2.pdf](https://github.com/user-attachments/files/25570379/Sprint.Review.sprint.2.pdf) & [Sprint Retrospective sprint 2.pdf](https://github.com/user-attachments/files/25570374/Sprint.Retrospective.sprint.2.pdf)
+3. [Sprint Review sprint 3.pdf](https://github.com/user-attachments/files/25570381/Sprint.Review.sprint.3.pdf) & [Sprint Retrospective sprint 3.pdf](https://github.com/user-attachments/files/25570375/Sprint.Retrospective.sprint.3.pdf)
 
 ## Forprosjektplan + avtaler
 📝 [Lenke til Forprosjektplan](https://studntnu-my.sharepoint.com/:w:/r/personal/hermalun_ntnu_no/Documents/Forprosjektsplan.docx?d=w2d3c32a9f4954c1d86cdc5c9065c15f7&csf=1&web=1&e=FxpRd1)
