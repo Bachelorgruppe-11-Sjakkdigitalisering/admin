@@ -19,6 +19,7 @@ Her vil det komme en wiki med alle dokumenter, i tillegg til lenker til frontend
 3. [Sprint Review sprint 3.pdf](https://github.com/user-attachments/files/25570381/Sprint.Review.sprint.3.pdf) & [Sprint Retrospective sprint 3.pdf](https://github.com/user-attachments/files/25570375/Sprint.Retrospective.sprint.3.pdf)
 4. [Sprint Review sprint 4.pdf](https://github.com/user-attachments/files/26111266/Sprint.Review.sprint.4.pdf) & [Sprint Retrospective sprint 4.pdf](https://github.com/user-attachments/files/26111273/Sprint.Retrospective.sprint.4.pdf)
 5. [Sprint Review sprint 5.pdf](https://github.com/user-attachments/files/26111284/Sprint.Review.sprint.5.pdf) & [Sprint Retrospective sprint 5.pdf](https://github.com/user-attachments/files/26111289/Sprint.Retrospective.sprint.5.pdf)
+6. [Sprint Review sprint 6.pdf](https://github.com/user-attachments/files/26625641/Sprint.Review.sprint.6.pdf) & [Sprint Retrospective sprint 6.pdf](https://github.com/user-attachments/files/26625640/Sprint.Retrospective.sprint.6.pdf)
 
 ## Forprosjektplan + avtaler
 📝 [Lenke til Forprosjektplan](https://studntnu-my.sharepoint.com/:w:/r/personal/hermalun_ntnu_no/Documents/Forprosjektsplan.docx?d=w2d3c32a9f4954c1d86cdc5c9065c15f7&csf=1&web=1&e=FxpRd1)
