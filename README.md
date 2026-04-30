@@ -20,6 +20,8 @@ Her vil det komme en wiki med alle dokumenter, i tillegg til lenker til frontend
 4. [Sprint Review sprint 4.pdf](https://github.com/user-attachments/files/26111266/Sprint.Review.sprint.4.pdf) & [Sprint Retrospective sprint 4.pdf](https://github.com/user-attachments/files/26111273/Sprint.Retrospective.sprint.4.pdf)
 5. [Sprint Review sprint 5.pdf](https://github.com/user-attachments/files/26111284/Sprint.Review.sprint.5.pdf) & [Sprint Retrospective sprint 5.pdf](https://github.com/user-attachments/files/26111289/Sprint.Retrospective.sprint.5.pdf)
 6. [Sprint Review sprint 6.pdf](https://github.com/user-attachments/files/26625641/Sprint.Review.sprint.6.pdf) & [Sprint Retrospective sprint 6.pdf](https://github.com/user-attachments/files/26625640/Sprint.Retrospective.sprint.6.pdf)
+7. [Sprint Review sprint 7.pdf](https://github.com/user-attachments/files/27232981/Sprint.Review.sprint.7.pdf) & [Sprint Retrospective sprint 7.pdf](https://github.com/user-attachments/files/27232979/Sprint.Retrospective.sprint.7.pdf)
+8. [Sprint Review sprint 8.pdf](https://github.com/user-attachments/files/27232983/Sprint.Review.sprint.8.pdf) & [Sprint Retrospective sprint 8.pdf](https://github.com/user-attachments/files/27232980/Sprint.Retrospective.sprint.8.pdf)
 
 ## Forprosjektplan + avtaler
 📝 [Lenke til Forprosjektplan](https://studntnu-my.sharepoint.com/:w:/r/personal/hermalun_ntnu_no/Documents/Forprosjektsplan.docx?d=w2d3c32a9f4954c1d86cdc5c9065c15f7&csf=1&web=1&e=FxpRd1)
