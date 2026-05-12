@@ -30,6 +30,9 @@ Her vil det komme en wiki med alle dokumenter, i tillegg til lenker til frontend
 
 🤝 [Lenke til Standardavtale (mellom gruppemedlemmer, oppdragsgiver, veileder osv)](https://studntnu-my.sharepoint.com/:w:/r/personal/hermalun_ntnu_no/Documents/Standardavtale.docx?d=w9668dd38e22e4bc9a6e5084c5581a4af&csf=1&web=1&e=w3FHXX)
 
+## Poster
+📜 [Poster.pdf](https://github.com/user-attachments/files/27636957/Poster.-.Sjakk.pdf)
+
 ## Frontend og Backend
 
 🧑‍🎨 [Lenke til frontend repo](https://github.com/Bachelorgruppe-11-Sjakkdigitalisering/frontend)
